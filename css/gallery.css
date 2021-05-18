@@ -1,0 +1,12 @@
+.column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  .row {
+    display: flex;
+  }
+
+  div img{
+      width: 100%;
+  }
